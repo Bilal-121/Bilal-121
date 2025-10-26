@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Bilal Essakini</h1>
-<h3 align="center">💻 Junior Full-Stack Developer | Crafting User-Centric & Scalable Web Experiences</h3>
+<h3 align="center">💻 Junior Front-End Developer | Crafting User-Centric & Scalable Web Experiences</h3>
 
 ---
 
 ### 🚀 About Me  
 
 🌍 Based in **UK**  
-🧠 Passionate about **building full-stack web applications** that combine clean code, usability, and performance.  
+🧠 Passionate about **building front-end web applications** that combine clean code, usability, and performance.  
 🎯 On a mission to bridge **business goals and user experience** through technology.  
 💡 *"Transforming complex ideas into simple, elegant digital experiences."*  
 ⚙️ Currently exploring **modern backend frameworks** and deployment platforms.  
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilal-essakini1" target="_blank">
-    <img src="https://img.shields.io/badge/-Bilal%20Essakini-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Bilal-121" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
