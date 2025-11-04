@@ -5,9 +5,9 @@
 
 ### 🚀 About Me  
 <ul>
-<li>Passionate about building front-end web applications that combine clean code and usability. </li> 
-<li>Transforming complex ideas into simple, elegant digital experiences. </li> 
-<li>Currently exploring **modern backend frameworks** and deployment platforms. </li>  
+<li>I enjoy creating clean, user-friendly web experiences that look good and feel great to use.</li> 
+<li>I love turning complex ideas into simple, engaging digital products. </li> 
+<li>Recently, I’ve been exploring modern backend frameworks and deployment tools to round out my full-stack skills.</li>  
 </ul>
 
 ---
@@ -15,7 +15,7 @@
 ### 🧠 Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,php,python,mysql,mongodb,oracle,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,npm,git,github-light,tailwind,bootstrap,nodejs,express,php,python,mysql,mongodb,oracle,vercel-light,render" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**bilal-portfolio**](https://github.com/Bilal-121/bilal-portfolio) | My personal developer portfolio. | HTML, CSS, JavaScript, React, Tailwind CSS, Vercel |
+| [**bilal-portfolio**](https://github.com/Bilal-121/bilal-portfolio) | My personal developer portfolio. | HTML, CSS, JavaScript, React, Tailwind, Vercel |
 ---
 
 
@@ -41,4 +41,4 @@
 
 ---
 
-<p align="center"> <b>“Building impactful solutions, one commit at a time.”</b> </p>
+<p align="center"> <b>“Building impactful solutions, one commit at a time.😎”</b> </p>
