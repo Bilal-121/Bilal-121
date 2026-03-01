@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Bilal Essakini</h1>
-<h3 align="center">Junior Front-End Developer | Crafting User-Centric & Scalable Web Experiences</h3>
+<h3 align="center">Front-End Developer | Crafting User-Centric & Scalable Web Experiences</h3>
 
 ---
 
